@@ -1,0 +1,16 @@
+RULE_ML_COMMENT=9
+RULE_ID=5
+RULE_WS=11
+RULE_INT=8
+RULE_STRING=4
+RULE_ANY_OTHER=12
+RULE_INDENT=6
+RULE_SL_COMMENT=10
+RULE_DEDENT=7
+':'=18
+'property'=17
+'type'=14
+'extends'=16
+'[]'=19
+'import'=13
+'entity'=15
